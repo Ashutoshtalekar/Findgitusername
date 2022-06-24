@@ -39,30 +39,31 @@ Total 3 API' are used {fetchData.js}
 * step by step process to deploy a website :- 
 
 Step 1: Login to your azure portal and create a storage account first.
-![Screenshot (87)](https://user-images.githubusercontent.com/97949958/172020207-e3d7b7ba-5cdb-4b25-9f8c-01196a583ca9.png)
 
+
+![Screenshot (11)](https://user-images.githubusercontent.com/98150219/175519158-0ee257dd-ad17-43bc-8b39-ab1a2a5151de.png)
 
 Step 2: After Creating a storage account, on that same page select static Website in data management section in resources in the column on left side. After selecting the another page will appear which will be asking you to create a website. By clicking on the enable option on that page your website will be generated automatically and will be served from the container $web. Give the index document and error document name and save the changes made.
 
-![Screenshot (91)](https://user-images.githubusercontent.com/97949958/172021447-7f4f6738-7480-48de-9ea1-52cd6511f0ee.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/98150219/175519097-8f33b1df-6934-4e35-a6a9-967553bd403b.png)
+
 
 Step 3: Now go to the storage, open the containers and upload the website code files which are code using VisualStudio Code as an IDE and images that are required for .
 
-![Screenshot (92)](https://user-images.githubusercontent.com/97949958/172021621-437b52e3-03b3-490e-a256-abfbd79e4045.png)
-
-![Screenshot (93)](https://user-images.githubusercontent.com/97949958/172021644-bf4b51b1-d76c-465f-8cb8-44cb60a319a2.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/98150219/175519400-5c137684-5004-4512-9b64-cda42c3c1b8c.png)
 
 Step 4 : Once done with all of this copy the link that was generated earlier and paste it in browser . 
                   
          
          --------------------------YOUR WEBSITE WILL BE READY TO WORK-------------------------------    
 
-Project demo website URL :  https://frtprojectstorage.z13.web.core.windows.net/
+Project demo website URL : https://ashutoshstorageaccount.z10.web.core.windows.net/
 
-Demo video link : https://youtu.be/ZsKZPmECzxU
+Demo video link : 
  
 After Images :
 
-![Screenshot (94)](https://user-images.githubusercontent.com/97949958/172022602-3e470720-5455-45c2-83e6-205bfdeec1dc.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/98150219/175519016-13bfbb42-1dff-4b72-b118-f4543f42d1b3.png)
 
-![Screenshot (95)](https://user-images.githubusercontent.com/97949958/172022604-d09537dd-495f-4442-811f-5ca92cf3d232.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/98150219/175518981-760c38ca-9a59-4e1d-97b4-fbc3b601cf87.png)
+
